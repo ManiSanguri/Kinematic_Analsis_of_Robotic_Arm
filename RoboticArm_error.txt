@@ -1,0 +1,36 @@
+Constrained Instances: 'trolly wheel-1', 'wheel axle-1'
+Constraint Name: Lock5
+Error Details: Constraint is not supported. The constraint has been exported as unknown constraint.
+---------------------------------------------------------------------------------
+Constrained Instances: 'trolly wheel-1', 'wheel axle-1'
+Constraint Name: Lock5
+Error Details: Constraint geometry is not supported. The constraint geometry has been exported as unknown geometry.
+---------------------------------------------------------------------------------
+Constrained Instances: 'trolly wheel-1', 'wheel axle-1'
+Constraint Name: Lock5
+Error Details: Constraint geometry is not supported. The constraint geometry has been exported as unknown geometry.
+---------------------------------------------------------------------------------
+Constrained Instances: 'trolly wheel-1', 'wheel axle-1'
+Constraint Name: Lock5
+Error Details: Constraint is not supported. The constraint has been exported as unknown constraint.
+---------------------------------------------------------------------------------
+Constrained Instances: 'trolly wheel-1', 'wheel axle-1'
+Constraint Name: Lock5
+Error Details: Constraint geometry is not supported. The constraint geometry has been exported as unknown geometry.
+---------------------------------------------------------------------------------
+Constrained Instances: 'trolly wheel-1', 'wheel axle-1'
+Constraint Name: Lock5
+Error Details: Constraint geometry is not supported. The constraint geometry has been exported as unknown geometry.
+---------------------------------------------------------------------------------
+Constrained Instances: 'spur gear_iso-2', 'spur gear_iso-1'
+Constraint Name: GearMate1
+Error Details: Constraint is not supported. The constraint has been exported as unknown constraint.
+---------------------------------------------------------------------------------
+Constrained Instances: 'spur gear_iso-1', 'spur gear_iso-3'
+Constraint Name: GearMate2
+Error Details: Constraint is not supported. The constraint has been exported as unknown constraint.
+---------------------------------------------------------------------------------
+Constrained Instances: 'internal spur gear_iso-2', 'spur gear_iso-2'
+Constraint Name: GearMate3
+Error Details: Constraint is not supported. The constraint has been exported as unknown constraint.
+---------------------------------------------------------------------------------
